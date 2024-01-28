@@ -1,0 +1,1988 @@
+@media only screen and (max-width: 2400px) and (min-width: 1400px){
+    .container {
+        max-width: 1400px;
+    }
+}
+@media(max-width: 1650px){
+}
+@media(max-width: 1400px){
+  .gap {
+    padding: 100px 0;
+  }
+  .no-top{
+      padding-top: 0;
+  }
+  .no-bottom{
+      padding-bottom: 0;
+  }
+  .pricing-plans {
+    padding-bottom: 340px;
+  }
+  .circle canvas, .circle {
+    width: 210px !important;
+    height: 210px !important;
+  }
+  .progresbar.pt-4 {
+    padding-top: 10px !important;
+  }
+  .domestic {
+    padding: 50px 65px;
+  }
+  .request-quote.two {
+    margin-bottom: 50px;
+  }
+  .about-img img {
+    width: 75%;
+  }
+  .about-img  img.img-about {
+    width: 40%;
+  }
+  .about-img .about-two-content {
+    margin-top: 40px;
+  }
+  .navbar-links li.navbar-dropdown .dropdown {
+    width: 200px;
+  }
+  header.two a.header-button {
+    padding: 16px 24px;
+    FONT-SIZE: 14PX;
+  }
+  p {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  ul.link-style li a {
+    font-size: 14px;
+  }
+  .latterbox {
+    padding: 5% 28%;
+  }
+  .history-slider .owl-nav i {
+    width: 54px;
+    height: 54px;
+    font-size: 18px;
+  }
+  .slider-home-1.owl-carousel .owl-nav.disabled button i {
+    width: 42px;
+    height: 42px;
+    font-size: 15px;
+  }
+  .has-children:before {
+    right: 6px;
+  }
+  .error-section {
+    padding-top: 120px;
+    padding-bottom: 60px;
+    margin-top: -53px;
+  }
+  .recent-projects-two .owl-nav i {
+    width: 56px;
+    height: 56px;
+    font-size: 18px;
+  }
+  .our-experts-text:before {
+    height: 71%;
+  }
+  .error p {
+    width: 100%;
+  }
+  .slider-home-1.owl-carousel .owl-dots.disabled, .slider-home-1.owl-carousel .owl-nav.disabled {
+    right: 10%;
+  }
+  .navbar-links li.navbar-dropdown .dropdown {
+    margin-top: 14px;
+  }
+  .two-slider.owl-carousel .owl-item img{
+    width: 100%;
+  }
+  .slide-two-img:before {
+    width: 499px;
+    height: 514px;
+    border: 60px solid #0a9642;
+  }
+  .featured-area-two {
+    padding-top: 200px;
+    padding-bottom: 20px;
+  }
+  .featured-area-one h6 {
+    width: 88%;
+  }
+  .navbar-links li.navbar-dropdown .dropdown a {
+    padding-left: 14px;
+    font-size: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+  }
+  header .logo svg {
+    width: 183px;
+    height: auto;
+  }
+  .hero-section {
+    padding-top: 160px;
+    padding-bottom: 100px;
+  }
+  .navbar-links li > a {
+    font-size: 16px;
+  }
+  .navbar-links li a {
+    padding: 10px 18px;
+  }
+  a.header-button {
+    padding: 28px 34px;
+    border-radius: 70px;
+    margin-left: 20px;
+    margin-right: -1px;
+    font-size: 14px;
+  }
+  .featured-area-one h2 {
+    font-size: 44px;
+    line-height: 54px;
+  }
+  .top-bar-mail i {
+    width: 34px;
+    height: 34px;
+  }
+  .logo {
+    margin-top: -5px;
+  }
+  .owl-item.active .hero-section:before {
+    height: 585px;
+    width: 927px;
+    border-radius: 417px;
+    left: -46px;
+    top: -23%;
+  }
+  .heading h2 {
+    font-size: 48px;
+    line-height: 58px;
+  }
+  .team-img:before {
+    width: 420px;
+    height: 420px;
+    border: 50px solid #0a9642;
+  }
+  .posts {
+    padding: 30px;
+  }
+  .team-text p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .tab-label {
+    padding: 3px;
+    padding-left: 26px;
+    font-size: 16px;
+  }
+  .use-energix.three p {
+    width: 100%;
+  }
+  .use-energix.three h2 {
+    font-size: 44px;
+    line-height: 54px;
+  }
+  ul.recent-posts li a {
+    width: 90%;
+  }
+  ul.information {
+    width: 90%;
+  }
+  .quote h3 {
+    font-size: 34px;
+    line-height: 50px;
+  }
+  .blog-details-text h2 {
+    font-size: 34px;
+    line-height: 48px;
+  }
+  .check {
+    font-size: 14px;
+  }
+  .renewable-group {
+    width: 100%;
+  }
+  .banner-text p {
+    width: 41%;
+  }
+  .renewable-group h3 {
+    font-size: 30px;
+    padding-top: 4px;
+  }
+  .history h4 {
+    font-size: 20px;
+    line-height: 30px;
+    width: 90%;
+  }
+  .history h2 {
+    font-size: 34px;
+  }
+  .history p {
+    width: 90%;
+    width: 90%;
+  }
+  .battery-storage i {
+    top: 16px;
+  }
+  .battery-storage:hover .battery-storage-text {
+    transform: translateY(16px);
+  }
+  .battery-storage-text h3 {
+    padding-bottom: 10px;
+    font-size: 22px;
+  }
+  .battery-storage-text p{
+    font-size: 14px;
+  }
+  .battery-storage.two img {
+    height: 545px;
+  }
+  .top-bar-text p, .top-bar-text a {
+    font-size: 14px;
+  }
+  .battery-storage i {
+    width: 80px;
+    height: 80px;
+  }
+  .battery-storage i svg {
+    width: 44px;
+    height: auto;
+  }
+  .count-title-text span, .count-title-text h2 {
+    font-size: 36px;
+    padding-top: 15px;
+  }
+  .count-title-text p {
+    width: 84%;
+    margin: auto;
+  }
+  .recent-projects-text {
+    width: 76%;
+  }
+  .call-for a {
+    font-size: 20px;
+  }
+  .use-energix {
+    margin-bottom: 30px;
+  }
+  .use-energix h6 {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .free-consultation {
+    width: 98%;
+  }
+  .about-energix p {
+    font-size: 14px;
+  }
+  footer.one .social-media {
+    margin-top: 63px;
+  }
+  .contact-info h4 {
+    line-height: 22px;
+  }
+  .contact-info {
+    padding: 5px;
+    padding-right: 15px;
+  }
+  .contact-info h4 {
+    font-size: 16px;
+  }
+  .free-consultation-number h3 {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .free-consultation p {
+    padding-left: 30px;
+    padding-bottom: 30px;
+  }
+  .free-consultation svg {
+    margin-left: 30px;
+  }
+  .free-consultation-number span {
+    font-size: 26px;
+    padding: 28px 20px;
+  }
+  .client-reviews-text h3 {
+    line-height: 40px;
+    font-size: 24px;
+  }
+  .nav-c-slider {
+    margin-right: 80px;
+  }
+  .slider-main-img img {
+    width: 360px;
+    height: 360px;
+  }
+  .nav-c-slider a img,a.next-slide:before, a.next-slide.nav-active:before {
+    width: 70px;
+    height: 70px;
+  }
+  .nav-c-slider {
+    min-height: 475px;
+  }
+  .solar-energy {
+    padding: 30px;
+  }
+  .solar-energy h3 {
+    font-size: 20px;
+    padding-top: 20px;
+    padding-bottom: 0px;
+  }
+  .solar-energy h2 {
+    font-size: 50px;
+    line-height: 56px;
+  }
+  .button {
+    padding: 16px 34px;
+    font-size: 14px;
+  }
+  .request-quote .heading h2 {
+    font-size: 42px;
+    line-height: 52px;
+  }
+  form.request-quote-form {
+    padding: 30px;
+  }
+  form.request-quote-form input, form.request-quote-form textarea {
+    margin-bottom: 10px;
+  }
+  .blog-text span {
+    padding-right: 20px;
+  }
+  .blog-text h4 {
+    font-size: 22px;
+    padding-bottom: 16px;
+    line-height: 32px;
+  }
+  .blog-text > span {
+    padding-right: 0;
+  }
+  .partners h3 {
+    font-size: 22px;
+    line-height: 20px;
+  }
+  .sponsors img {
+    width: 18%;
+  }
+  footer.one .logo svg {
+    width: 280px;
+    height: auto;
+  }
+  .contact-info p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .contact-info i {
+    width: 64px;
+    height: 64px;
+  }
+  .contact-info svg {
+    width: 30px;
+  }
+  .footer-bottom {
+    padding-top: 24px;
+    padding-bottom: 24px;
+  }
+  .count-title-text p {
+    line-height: 26px;
+  }
+  .count-title-text span, .count-title-text h2 {
+    font-size: 44px;
+  }
+  .contact-footer {
+    padding-top: 80px;
+  }
+  /* home 2 */
+  .use-energix h4 {
+    font-size: 22px;
+    line-height: 32px;
+  }
+  .energize-society:before {
+    width: 500px;
+    height: 500px;
+  }
+  .about-two-content h2, .about-two-content span {
+    font-size: 55px;
+    font-weight: bold;
+    line-height: 50px;
+  }
+  .about-two-content i {
+    margin-right: 10px;
+  }
+  .about-two-content h6 {
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .sectors h4 {
+    font-size: 18px;
+  }
+  .sectors p {
+    width: 100%;
+  }
+
+  .recent-projects-two.owl-carousel .owl-item .team-image img {
+    width: 100% !important;
+    width: 20px;
+  }
+  .team-info h4 {
+    font-size: 22px;
+    line-height: 30px;
+    padding-top: 8px;
+    padding-bottom: 15px;
+  }
+  .team-info h5,.team-info h5 span{
+    font-size: 36px;
+    line-height: 35px;
+  }
+  .team-info ul {
+    padding-bottom: 13px;
+  }
+  .team-info li {
+    font-size: 14px;
+  }
+  .slider-nav__item.slick-slide.slick-current:before {
+    left: 11%;
+  }
+  .slider-nav__item.slick-slide.slick-current:after {
+    left: 13.5%;
+  }
+  .our-experts-img {
+    margin-right: 20px;
+  }
+  .our-experts-text h3 {
+    font-size: 24px;
+  }
+  .mail-to a{
+    font-size: 12px;
+  }
+  .contact-info.two {
+    padding: 20px 30px;
+  }
+  .contact-info.two svg {
+    width: auto;
+  }
+  .contact-info.two h3 {
+    font-size: 24px;
+    line-height: 34px;
+  } 
+  .contact-info.two input {
+    height: 50px;
+    width: 400px;
+    font-size: 14px;
+    margin-right: 10px;
+  }
+  .energize-society:before {
+    width: 518px;
+    height: 518px;
+    border: 49px solid #0a9642;
+  }
+  .about-two-content p {
+    width: 100%;
+    padding-bottom: 40px;
+  }
+  .solar-system h2 {
+    font-size: 54px;
+    line-height: 65px;
+  }
+  section.featured-area-two h2 {
+    font-size: 56px;
+    line-height: 66px;
+  }
+  footer.one p,.social-media li a{
+    font-size: 14px;
+  }
+  .use-energix.two p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .use-energix.two i {
+    width: 100px;
+    height: 100px;
+  }
+  .use-energix.two svg {
+    vertical-align: middle;
+    width: 50%;
+  }
+  .experts-slider.owl-carousel .owl-item img {
+    width: 80%;
+  }
+  .our-experts-img:before {
+    width: 250px;
+    height: 258px;
+  }
+  .our-experts-img {
+    margin-right: -30px;
+  }
+  .mail-to {
+    padding-right: 24px;
+    margin-top: 16px;
+  }
+  .our-experts-text h3 {
+    font-size: 24px;
+    line-height: 28px;
+  }
+}
+@media(max-width: 1200px){
+  .domestic {
+    padding: 40px 40px;
+  }
+  .bar-menu {
+    display: block;
+  }
+  .featured-area-one h2 {
+    font-size: 42px;
+    line-height: 52px;
+  }
+  .battery-storage.two img {
+    height: 360px;
+  }
+  .blog-text-two-text.two {
+    padding: 30px;
+  }
+  #progress {
+    height: 50px;
+    width: 50px;
+  }
+  span#progress-value i {
+    font-size: 16px;
+  }
+  .top-bar,.navbar,.search-style,header.two .menu-bar:before{
+    display: none !important;
+  }
+  .banner {
+    padding-top: 130px;
+  }
+  .slide-two-img:before{
+    display: none;
+  }
+  .error {
+    width: 60%;
+  }
+  .featured-area-two {
+    padding-top: 150px;
+    padding-bottom: 20px;
+  }
+  .two-slider .owl-dots {
+    position: relative;
+    left: 0%;
+    bottom: auto;
+    width: 100%;
+  }
+  header.two .menu-bar{
+    background-color: #fff !important;
+  }
+  header.two .logo{
+    padding: 0;
+  }
+  .team-img:before{
+    display: none;
+  }
+  .featured-area-one h6 {
+    width: 92%;
+  }
+  .hero-section {
+    padding-top: 130px;
+  }
+  .owl-item.active .hero-section:before {
+    height: 557px;
+    width: 880px;
+    left: -23px;
+    top: -24%;
+  }
+  .menu-bar {
+    margin-top: 0;
+    padding: 0;
+  }
+  .logo {
+     margin-top: 0px; 
+  }
+  header {
+    z-index: 11;
+    position: relative;
+    width: 100%;
+    padding: 0;
+    background-color: white;
+    padding-top: 14px;
+    padding-bottom: 14px;
+  }
+  .contact-info.contact-information {
+    padding: 30px 35px;
+  }
+  .solar-pv {
+    margin-top: 20px;
+  }
+  form.contact-form input, form.contact-form .nice-select.Advice {
+    margin-bottom: 20px;
+  }
+  .accordion {
+    margin-top: 60px;
+  }
+  .solar-system h2 {
+    font-size: 46px;
+    line-height: 56px;
+  }
+  .banner-text p {
+    width: 47%;
+  }
+  .section-contact .heading h2{
+    width: 100%;
+    padding-bottom: 30px;
+  }
+  .recent-projects-text.two {
+    width: 42%;
+  }
+  li.single-comment.children{
+    margin-left: 0;
+  }
+  .single-comment h4 {
+    font-size: 20px;
+  }
+  li.single-comment span {
+    font-size: 12px;
+  }
+  .domestic h3 {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .check {
+    font-size: 12px;
+  }
+  .comment {
+    padding: 30px 30px;
+  }
+  .single-comment a {
+    padding: 10px 14px;
+  }
+  .battery-storage i {
+    width: 110px;
+    height: 110px;
+  }
+  .battery-storage i svg {
+    width: auto;
+    height: auto;
+  }
+  .battery-storage-text h3 {
+    padding-bottom: 28px;
+    font-size: 28px;
+  }
+  .battery-storage {
+    margin-bottom: 20px;
+  }
+  .count-title-text {
+    flex-wrap: wrap;
+  }
+  .count-line {
+    background-color: #382d2d00;
+    height: 200px;
+    width: 0;
+    margin-bottom: 60px;
+  }
+  .recent-projects-text {
+    padding: 30px;
+    width: 84%;
+    margin-top: -100px;
+    margin-left: 30px;
+  }
+  .use-energix {
+    align-items: center;
+  }
+  .energix .video {
+    margin-top: 40px;
+  }
+  .call-for a {
+    font-size: 24px;
+  }
+  .process-solutions .heading h2 {
+    width: 84%;
+  }
+  .slider-main-img img {
+    width: 300px;
+    height: 300px;
+  }
+  .nav-c-slider {
+    min-height: 446px;
+    margin-right: 26px;
+  }
+  .client-reviews-text h3 {
+    line-height: 34px;
+    font-size: 20px;
+  }
+  .solar-energy {
+    margin-bottom: 40px;
+  }
+  .request-quote {
+    padding: 50px;
+  }
+  .request-quote .heading h2 {
+    font-size: 36px;
+    line-height: 46px;
+  }
+  form.request-quote-form {
+    margin-bottom: -90px;
+  }
+  .blog-text span {
+    font-size: 10px;
+  }
+  .blog-text h4 {
+    font-size: 20px;
+    line-height: 32px;
+  }
+  .social-media li a{
+    font-size: 12px;
+  }
+  .about-energix p {
+    font-size: 14px;
+  }
+  .about-energix input {
+    font-size: 12px;
+  }
+  .contact-info {
+    margin-bottom: 14px;
+  }
+  .use-energix.two {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  .use-energix.two h4 {
+    width: 100%;
+    font-size: 18px;
+  }
+  .arista-square-img img {
+    width: 100%;
+    margin-top: 55px;
+  }
+  .request-quote-info h4, .request-quote-info p {
+    font-size: 14px;
+    color: white;
+  }
+  .request-quote-info i {
+    margin-right: 10px;
+    margin-left: 10px;
+  }
+  .team-data {
+    justify-content: space-between;
+  }
+  .team-info h4 {
+    font-size: 34px;
+    line-height: 44px;
+  }
+  .team-data {
+    width: 83%;
+  }
+  .team-info li {
+    font-size: 18px;
+  }
+  .recent-projects-two .owl-dots {
+    display: none;
+  }
+  .client-reviews-text.two {
+    width: 81%;
+  }
+  .slider-nav.slick-initialized.slick-slider.slick-dotted {
+    width: 80%;
+    margin: auto;
+    margin-top: 40px;
+  }
+  .our-experts-text h3 {
+    font-size: 30px;
+  }
+  .mail-to a {
+    font-size: 14px;
+  }
+  .blog-text-two-text.two,{
+    padding: 30px;
+  }
+  .blog-text-two-text {
+    padding: 30px;
+    padding-bottom: 50px;
+  }
+  .blog-text-two-text span {
+    font-size: 14px;
+    padding: 0;
+  }
+  .mb-80 {
+    margin-bottom: 50px;
+  }
+  .mt-60 {
+    margin-top: 30px;
+  }
+  footer.one .logo svg {
+    width: 250px;
+    height: auto;
+  }
+  footer.one .logo p {
+    color: white;
+    padding-top: 20px;
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .contact-info.two input {
+    height: 50px;
+    width: 350px;
+  }
+  .contact-info.two h3 {
+    font-size: 20px;
+    line-height: 34px;
+  }
+  .section-solar-energy .request-quote {
+    margin-top: 70px;
+  }
+  .about-img {
+    margin-top: 40px;
+  }
+  .about-img .about-two-content {
+    display: inline-flex;
+    display: block;
+    margin-left: 65%;
+  }
+}
+@media(max-width: 993px){
+  .gap {
+    padding: 100px 0;
+  }
+  .no-top{
+      padding-top: 0;
+  }
+  .no-bottom{
+      padding-bottom: 0;
+  }
+  .solar-system p {
+    width: 100%;
+  }
+  .featured-area-one h2 {
+    width: 70%;
+  }
+  .latterbox {
+    padding: 8% 15%;
+  }
+  .free-consultation {
+    margin-top: 0px;
+    margin-bottom: 40px;
+  }
+  .featured-area-one h6 {
+    width: 73%;
+  }
+  .battery-storage.two img {
+    height: 332px;
+  }
+  .error {
+    width: 76%;
+  }
+  .mobile-nav {
+    width: 45%;
+  }
+  .slide-two-img {
+    position: relative;
+    margin-right: 70px;
+    margin-bottom: 38px;
+    margin-left: 70px;
+    margin-top: 20px;
+  }
+  .services-img,.services-img.two{
+    margin: 0;
+  }
+  .services-img.two{
+    margin-bottom: 30px;
+  }
+  .use-energix.three h2 {
+    font-size: 40px;
+    line-height: 40px;
+  }
+  ul.information {
+    width: 100%;
+    margin-top: 40px;
+  }
+  .quote {
+    flex-wrap: wrap;
+  }
+  .quote i {
+    margin-bottom: 27px;
+    margin-right: 0px;
+  } 
+  .recent-projects-text.two {
+    width: 84%;
+  }
+  .our-blog-text-img .admin img{
+    width: auto;
+  }
+  .our-blog-text-img img,.our-blog-text p {
+    width: 100%;
+  }
+  .comment.leave {
+    margin-bottom: 40px;
+  }
+  ul.pagination {
+    margin-bottom: 50px;
+    justify-content: center;
+  }
+  .banner-text h2 {
+    font-size: 60px;
+    line-height: 70px;
+  }
+  .banner-text p {
+    width: 63%;
+  }
+  .request-quote.two:after {
+    width: 86%;
+    left: 7.5%;
+  }
+  .domestic {
+    padding: 40px 100px;
+    margin-bottom: 20px;
+  }
+  .about-img .about-two-content {
+    margin-left: 55%;
+  }
+  .domestic.commercial {
+    background-color: #17195A;
+    margin-bottom: 0;
+  }
+  .count-line{
+    display: none;
+  }
+  .count-title-text {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .count-title-text p {
+    width: 84%;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+  .new-project button.owl-dot {
+    width: 15%;
+    margin-bottom: 70px;
+  }
+  .call-for a {
+    font-size: 20px;
+  }
+  .process-solutions .heading h2 {
+    width: 100%;
+  }
+  .heading h2 {
+    font-size: 38px;
+    line-height: 48px;
+    padding-bottom: 28px;
+  }
+  .slider-main-img img {
+    width: 400px;
+    height: 400px;
+  }
+  .nav-c-slider:before {
+    width: 478px;
+    height: 552px;
+  }
+  .request-quote {
+    margin-top: 80px;
+  }
+  form.request-quote-form {
+    margin-bottom: -90px;
+    margin-top: 40px;
+  }
+  .blog-text span {
+    font-size: 12px;
+  }
+  .blog-text {
+    margin-bottom: 40px;
+  }
+  .sponsors {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .sponsors img {
+    width: 23%;
+    margin: 7px;
+  }
+  .footer-bottom {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .footer-bottom ul {
+    margin-top: 20px;
+  }
+  .energize-society {
+    margin-right: 64px;
+    position: relative;
+    margin-bottom: 40px;
+  }
+  .energize-society:before{
+    display: none;
+  }
+  .sectors {
+    margin-bottom: 40px;
+  }
+  .video.two {
+    margin-bottom: 50px;
+  }
+  .client-reviews-text.two {
+    width: 100%;
+  }
+  .slider-nav.slick-initialized.slick-slider.slick-dotted {
+    width: 100%;
+  }
+  .sponsors.three img,.sponsors.two img {
+    margin-right: 3px;
+  }
+  .blog-update a.button {
+    margin-top: 15px !important;
+  }
+  footer.one .social-media {
+    margin-top: 40px;
+    margin-bottom: 30px;
+  }
+  .contact-info.two {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    }
+  .contact-info.two form{
+    padding-top: 10px;
+  }
+  .contact-info.two input {
+    height: 50px;
+    width: 475px;
+  }
+}
+@media(max-width: 768px){
+  .domestic {
+    padding: 40px 46px;
+  }
+  .about-two-content .mb-80 {
+    margin-bottom: 26px;
+  }
+  .solar-pv .team-info {
+    padding: 0;
+  }
+  .solar-pv h4 {
+    padding-bottom: 16px;
+    padding-top: 16px;
+  }
+  .team-img {
+    margin: 50px;
+  }
+  .our-blog-text a {
+    font-size: 14px;
+  }
+  .our-blog-text a i {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+    font-size: 13px;
+  }
+  section.featured-area-two h2 {
+    font-size: 44px;
+    line-height: 54px;
+  }
+  .banner {
+    padding-top: 120px;
+  }
+  .banner-text h2 {
+    font-size: 50px;
+    line-height: 60px;
+  }
+  .mobile-nav {
+    width: 60%;
+  }
+  .page-breadcrumb li,
+  .page-breadcrumb li a {
+   font-size: 14px;
+  }
+  .page-breadcrumb li {
+    margin-right: 14px;
+    padding-right: 14px;
+  }
+  .error,.featured-area-one h6 {
+    width: 100%;
+  }
+
+  .error h2 {
+    font-size: 150px;
+    line-height: 156px;
+  }
+  .owl-item.active .hero-section:before {
+    left: 0 !important;
+    top: 0 !important;
+    transform: rotate(0deg);
+    border-radius: 0;
+    width: 100%;
+    height: 100%;
+    animation-name: none;
+  }
+  .owl-item.active .hero-section:before {
+    left: -23px;
+    top: -18%;
+  }
+  .progressbar {
+    margin-right: 125px;
+  }
+  ul.pagination li a {
+    font-size: 14px;
+  }
+  .use-energix.three h2 {
+    font-size: 32px;
+    line-height: 40px;
+  }
+  .featured-area-one h2 {
+    width: 87%;
+  }
+  .featured-area-one h6 {
+    width: 93%;
+  }
+  .quote h3 {
+    font-size: 24px;
+    line-height: 40px;
+  }
+  ul.pagination li a {
+    width: 40px;
+    height: 40px;
+  }
+  .blog-details-text h2 {
+    font-size: 26px;
+    line-height: 42px;
+  }
+  .blog-details-text h4.pt-0 {
+    padding-top: 20px !important;
+  }
+  .single-comment {
+    display: flex;
+    flex-wrap: wrap;padding: 30px;
+  }
+  ul.pagination li span {
+    width: 2px;
+    height: 2px;
+  }
+  .blog-details-text .video {
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  li.single-comment img {
+    margin-bottom: 20px;
+  }
+  .our-blog-text h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .banner-text p {
+    width: 100%;
+  }
+  .call-for {
+    padding: 28px;
+  }
+  .about-img img {
+    width: 100%;
+  }
+  .about-img  img.img-about {
+    width: auto;
+    display: none;
+  }
+  .about-img .about-two-content {
+    margin-left: 45%;
+    margin-top: 18px;
+  }
+  .recent-projects-two .owl-nav,.history-slider .owl-nav {
+    position: relative;
+    top: 20px;
+  }
+  .recent-projects-two .owl-nav i,.history-slider .owl-nav i {
+    width: 40px;
+    height: 40px;
+    font-size: 14px;
+  }
+  .recent-projects-two .owl-nav,.history-slider .owl-nav {
+    justify-content: center;
+    display: flex;
+  }
+  .battery-storage img {
+   height: 350px;
+  }
+  .call-for a {
+    font-size: 18px;
+  }
+  .call-for p{
+    font-size: 14px;
+  }
+  .slider-main-img img {
+    width: 340px;
+    height: 340px;
+  }
+  .blog-text span {
+    font-size: 16px;
+  }
+  .blog-text h4 {
+    font-size: 24px;
+    line-height: 32px;
+  }
+  .sponsors img {
+    width: 30%;
+    margin: 7px;
+  }
+  .logo .social-media {
+    margin-bottom: 10px;
+    margin-top: 20px;
+  }
+  .about-energix {
+    position: relative;
+    margin-top: 40px;
+  }
+  .request-quote .heading h6 {
+    padding-bottom: 16px;
+  }
+  .request-quote .button {
+    margin-bottom: 18px;
+  }
+  .team-data {
+    flex-wrap: wrap;
+  }
+  .team-data {
+    padding: 0;
+  }
+  .team-info {
+    padding: 30px;
+    padding-bottom: 0;
+  }
+  .recent-projects-two.owl-carousel .owl-item .team-image img{
+    height: 200px;
+  }
+  .team-image {
+    width: 100%;
+    margin-top: 20px;
+  }
+  .team-data {
+    width: 100%;
+  }
+  .slider-nav__item.slick-slide.slick-current:after {
+    left: 28.5%;
+  }
+  .slider-nav__item.slick-slide.slick-current:before {
+    left: 27%;
+  }
+  .sponsors.three{
+    display: none;
+  }
+  .our-experts-text {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .our-experts-text:before{
+    display: none;
+  }
+  .our-experts-text h3 {
+    margin-top: 30px;
+  }
+  .mail-to {
+    margin-top: 10px;
+    margin-bottom: 15px;
+  }
+  footer.one .social-media {
+    margin-bottom: 10px;
+    margin-top: 20px;
+  }
+  .contact-info.two input {
+    margin-bottom: 10px;
+  }
+}
+@media(max-width: 600px){
+}
+@media(max-width: 576px){
+  .gap {
+    padding: 80px 0;
+  }
+  .no-top{
+      padding-top: 0;
+  }
+  .no-bottom{
+    padding-bottom: 0;
+  }
+  .progressbar {
+    margin-right: 80px !important;
+    margin-bottom: 0px;
+  }
+  .circle div {
+    line-height: 40px;
+    font-size: 40px;
+  }
+  .circle:before {
+    font-size: 14px;
+  }
+  .circle canvas,.circle {
+    width: 200px !important;
+    height: 200px !important;
+  }
+  ul.information li {
+    padding-top: 13px;
+    padding-bottom: 18px;
+    border-top: 1px solid #D9D9D9;
+  }
+  .request-quote.two {
+    margin-bottom: 100px;
+  }
+  .request-quote-info {
+    margin-top: 16px;
+  }
+  .featured-area-one h2 {
+   margin: auto;
+  }
+  .count-title-text.two {
+    padding-top: 40px;
+  }
+  .request-quote .button{
+    margin-bottom: 0;
+  }
+  .history-slider .owl-nav {
+    margin-bottom: 40px;
+  }
+  .featured-area-one {
+    text-align: center;
+  }
+  .featured-area-one h6 {
+    width: 100%;
+  }
+  .count-title-text span, .count-title-text h2 {
+    font-size: 34px;
+    line-height: 44px;
+  }
+  .use-energix h4 {
+    padding-bottom: 2px;
+  }
+  .use-energix {
+    align-items: flex-start;
+  }
+  .renewable-group h3 {
+    line-height: 30px;
+    font-size: 24px;
+    padding-top: 4px;
+  }
+  .error h3 {
+    font-size: 22px;
+  }
+  .mobile-nav {
+    width: 100%;
+  }
+  .team-img img{
+    width: 96%;
+  }
+  .featured-area-one h2 {
+    font-size: 40px;
+    line-height: 50px;
+}
+  .slider-home-1.owl-carousel .owl-dots.disabled, .slider-home-1.owl-carousel .owl-nav.disabled {
+    justify-content: center;
+    display: flex;
+    right: auto;
+    position: relative;
+    margin-top: -40px;
+  }
+  .progresbar.pt-4 {
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .tab-label {
+    font-size: 18px;
+  }
+  .team-img{
+    margin: 0;
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  .solar-system h2 {
+    font-size: 36px;
+    line-height: 46px;
+  }
+  .clean-energy h5 {
+    font-size: 34px;
+    line-height: 45px;
+  }
+  .responsive-map iframe {
+    height: 340px;
+  }
+  .banner-text h2 {
+    font-size: 50px;
+    line-height: 50px;
+  }
+  .posts {
+    width: 97%;
+  }
+  .about-img .about-two-content {
+    margin-left: auto;
+    margin-top: 18px;
+  }
+  body {
+    overflow-x: hidden !important;
+  }
+  .use-energix.two i {
+    width: 100px;
+    height: 100px;
+  }
+  .use-energix-icon svg {
+    width: 54px;
+  }
+  .energize-society {
+    margin-right: auto;
+  }
+  .contact-info.two input {
+    width: 100%;
+  }
+  .container.gap {
+    padding-left: 12px;
+  }
+  .call-for {
+    width: 100%;
+    border-radius: 30px;
+  }
+  .call-for.mail-for {
+    margin-left: 0;
+    margin-top: 10px;
+  }
+  .call-for a {
+    font-size: 22px;
+  }
+  .heading h2 {
+    font-size: 32px;
+    line-height: 42px;
+  }
+  .nav-c-slider {
+    min-height: 446px;
+    margin-right: auto;
+    border: 0;
+    border-top: 8px solid #fafafa;
+    border-radius: 0;
+  }
+  .nav-c-slider:before {
+    display: none;
+  }
+  .nav-c-slider a:nth-child(1) {
+    top: -10%;
+    left: 0;
+    right: auto;
+  }
+  .nav-c-slider a:nth-child(2) {
+    top: -10%;
+    left: 21%;
+    right: auto;
+  }
+  .nav-c-slider a:nth-child(3) {
+    top: -10%;
+    left: 43%;
+    right: auto;
+  }
+  .nav-c-slider a:nth-child(4) {
+    top: -10%;
+    left: 65%;
+    right: auto;
+  }
+  .nav-c-slider a:nth-child(5) {
+    top: -10%;
+    left: 86%;
+    right: auto;
+  }
+  a.next-slide:before, a.next-slide.nav-active:before,.nav-c-slider a img {
+    width: 70px;
+    height: 70px;
+  }
+}
+@media(max-width: 500px){
+  .page-breadcrumb li:nth-child(4) {
+    padding-top: 10px;
+  }
+  .latterbox {
+    padding: 5%;
+  }
+  .latterbox-cross-btn {
+    top: 2%;
+    right: 2%;
+  }
+  .slide-two-img{
+    margin: 20px;
+  }
+  .request-quote {
+    padding: 30px;
+    margin-bottom: 50px;
+  }
+  .client-reviews-text h4 {
+    font-size: 28px;
+  }
+  .slider-home-1.owl-carousel .owl-nav.disabled button i {
+    width: 46px;
+    height: 46px;
+  }
+  .video i {
+    width: 66px;
+    height: 66px;
+  }
+  .team-info li {
+    font-size: 16px;
+  }
+  .client-reviews-text.two h5 {
+    font-size: 20px;
+    line-height: 32px;
+  }
+  .client-reviews-text h4 {
+    font-size: 26px;
+  }
+  .slider-nav__item.slick-slide.slick-current:before {
+    left: 35%;
+  }
+  .slider-nav__item.slick-slide.slick-current:after {
+    left: 36.5%;
+  }
+}
+@media(max-width: 480px){
+  .gap {
+    padding: 60px 0;
+  }
+  .no-top{
+      padding-top: 0;
+  }
+  .no-bottom{
+    padding-bottom: 0;
+  }
+  .about-img .about-two-content {
+    padding: 14px;
+    border-radius: 20px;
+    margin-top: 14px;
+  }
+  .featured-area-one h2 {
+    font-size: 34px;
+    line-height: 44px;
+  }
+  .contact-info.contact-information {
+    padding: 20px 30px;
+    margin-top: 10px;
+    margin-bottom: 0;
+    border-radius: 20px;
+  }
+  .solar-pv i {
+    width: 100px;
+    height: 100px;
+  }
+  .solar-pv svg {
+    width: 54px;
+  }
+  .solar-pv {
+    padding: 30px;
+  }
+  .page-breadcrumb {
+    padding: 14px 20px;
+  }
+  .our-projects .recent-projects-img {
+    margin-bottom: 40px;
+  }
+  .hero-section {
+    padding-top: 110px;
+  }
+  .contact-info.two form {
+    padding-top: 0px;
+  }
+  .about-energix .top-bar-mail {
+    margin-bottom: 10px;
+  }
+  footer.one {
+    padding-top: 60px;
+  }
+  .arista-square-img img {
+    margin-bottom: 40px;
+  }
+  .heading h2 {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  .featured-area-two {
+    padding-top: 120px;
+  }
+  ul.link-style li {
+    width: 100%;
+  }
+  .use-energix i {
+    width: 90px;
+    height: 90px;
+  }
+  .use-energix-icon i:before {
+    width: 96px;
+    height: 96px;
+  }
+  section.featured-area-two h2 {
+    font-size: 36px;
+    line-height: 45px;
+  }
+  .slider-nav.slick-initialized.slick-slider.slick-dotted {
+    width: auto;
+  }
+  .banner-text h2 {
+    font-size: 42px;
+    line-height: 43px;
+  }
+  .error h2 {
+    font-size: 120px;
+    line-height: 120px;
+  }
+  .error h3 {
+    font-size: 20px;
+  }
+  .tab-label {
+    font-size: 14px;
+  }
+  .slider-home-1.owl-carousel .owl-dots.disabled, .slider-home-1.owl-carousel .owl-nav.disabled {
+    margin-top: -28px;
+  }
+  .team-text h3 {
+    font-size: 30px;
+  }
+  .clean-energy h5 {
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+  .recent-projects-text h6 {
+    font-size: 26px;
+  }
+  .recent-projects-text h5 {
+    padding-bottom: 18px;
+  }
+  .our-blog-text h2 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .team-info h4 {
+    font-size: 28px;
+    line-height: 38px;
+  }
+  .heading p {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .footer-bottom ul {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .client-reviews-text h4 {
+    font-size: 24px;
+  }
+  .use-energix h4 {
+    font-size: 22px;
+  }
+  .footer-bottom li a {
+    margin-left: 19px;
+    font-size: 14px;
+  }
+}
+@media(max-width: 450px){
+  .domestic h3 {
+    font-size: 22px;
+    line-height: 30px;
+  }
+  .circle canvas, .circle {
+    width: 160px !important;
+    height: 160px !important;
+  }
+  .progressbar {
+    margin-right: 38px !important;
+  }
+  .circle div {
+    margin: -30px 0 0 -78px;
+    font-size: 34px;
+  }
+  .circle:before {
+    font-size: 10px !important;
+  }
+  .circle.for:before {
+    right: 18%;
+  }
+  .circle:before {
+    right: 31%;
+  }
+  .pricing-plan-page .solar-energy {
+    margin-bottom: 30px;
+  }
+  .solar-energy h2 {
+    font-size: 40px;
+    line-height: 50px;
+  }
+  form.request-quote-form {
+    padding: 14px;
+  }
+  .request-quote .button{
+    margin-bottom: 0;
+  }
+  form.request-quote-form h3 {
+    font-size: 24px;
+  }
+  .mobile-nav {
+    padding: 15px 40px 15px;
+  }
+  .battery-storage-text {
+    transform: translateY(70px);
+  }
+  .battery-storage:hover .battery-storage-text {
+    width: 100%;
+  }
+  .error h3 {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .battery-storage-text h3 {
+    padding-bottom: 10px;
+    font-size: 26px;
+  }
+  .battery-storage .battery-storage-text {
+    transform: translateY(0px) !important;
+  }
+  .battery-storage-text p {
+    font-size: 14px;
+    width: 100%;
+  }
+  .battery-storage:hover .battery-storage-text {
+    width: 90%;
+  }
+  .recent-projects-text span {
+    font-size: 12px;
+  }
+  .recent-projects-text {
+    padding: 30px;
+    width: 92%;
+    margin-top: -70px;
+    margin-left: 15px;
+  }
+  .responsive-map iframe {
+    height: 300px;
+  }
+  form.contact-form  label {
+    font-size: 14px;
+  }
+  .blog-text.two h6 {
+    font-size: 12px;
+    padding: 12px 12px;
+    margin-right: 14px;
+  }
+  .blog-text h4 {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .contact-info.two h3 {
+    font-size: 18px;
+    line-height: 28px;
+  }
+  .battery-storage img {
+   height: 300px;
+  }
+  h5 {
+    font-size: 18px;
+    line-height: 28px;
+  } 
+  .request-quote .heading h2 {
+    font-size: 26px;
+    line-height: 36px;
+  }
+  a.next-slide:before, a.next-slide.nav-active:before, .nav-c-slider a img {
+    width: 60px;
+    height: 60px;
+  }
+  .partners h3 {
+    font-size: 18px;
+    line-height: 15px;
+  }
+  .request-quote .heading h2 {
+    padding-bottom: 14px;
+  }
+  .request-quote .heading h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .blog-text span {
+    font-size: 14px;
+  }
+  .domestic svg {
+    width: 90px;
+    height: auto;
+  }
+  .domestic {
+    padding: 30px;
+  }
+  ul.link-style li {
+    padding-bottom: 20px;
+  }
+  .contact-footer {
+    padding-top: 60px;
+  }
+  .domestic,.battery-storage:before,
+  .battery-storage img,.video img,.call-for,
+  .request-quote:before,.request-quote {
+    border-radius: 20px;
+  }
+  .about-two-content h2, .about-two-content span {
+    font-size: 40px;
+    line-height: 44px;
+  }
+}
+@media(max-width: 410px){
+  .sponsors img {
+    width: 39%;
+    margin: 7px;
+  }
+  .featured-area-one h2 {
+    width: 100%;
+  }
+  .comment.leave {
+    padding: 20px;
+    border-radius: 20px;
+  }
+  .share-this {
+    border-radius: 20px;
+    padding: 14px 14px;
+  }
+  .share-this h6 {
+    padding-right: 8px;
+    font-size: 14px;
+    line-height: 20px;
+  }
+  .request-quote.two {
+    margin-bottom: 90px !important;
+  }
+  .social-media {
+    margin-top: 20px;
+  }
+  .team-about h3 {
+    font-size: 34px;
+    padding-bottom: 10px;
+  }
+  .recent-projects-text {
+    padding: 20px;
+  }
+  .recent-projects-text i {
+    width: 35px;
+    height: 35px;
+  }
+  ul.link-style li {
+    padding-bottom: 28px;
+  }
+  header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+  .solar-system h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  .banner-text h2 {
+    font-size: 40px;
+    line-height: 47px;
+  }
+  .call-for a {
+    font-size: 20px;
+  }
+  .slider-nav__item.slick-slide.slick-current:before {
+    left: 33%;
+  }
+  .slider-nav__item.slick-slide.slick-current:after {
+    left: 34%;
+  }
+  .team-info h4 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .blog-text span {
+    font-size: 12px;
+  }
+  .blog-text.two h6 {
+    font-size: 10px;
+  }
+  .contact-info.two svg {
+    width: 30px;
+  } 
+  .contact-info.two h3 {
+    font-size: 16px;
+    line-height: 26px;
+  }
+  .about-energix h5 {
+    text-transform: capitalize;
+    color: #fafafa;
+    font-weight: bold;
+    padding-bottom: 6px;
+  }
+  .about-energix {
+    position: relative;
+    margin-top: 30px;
+  }
+  form.request-quote-form input {
+    height: 50px;
+    font-size: 14px;
+  }
+  .quote i {
+  margin-bottom: 20px;
+    width: 80px;
+    height: 80px;
+  }
+  .quote svg {
+    fill: #f3274c;
+    width: 50px;
+  }
+}
+@media(max-width: 375px){
+  .blog-text span {
+    font-size: 12px;
+  }
+  .our-blog-text h6 {
+    padding: 14px 14px;
+    margin-right: 10px;
+  }
+  .request-quote.two:after {
+    width: 81%;
+    left: 9.5%;
+  }
+  .clean-energy h5 {
+    font-size: 26px;
+    margin-bottom: 10px;
+  }
+  .slider-nav__item.slick-slide.slick-current:before {
+    left: 29%;
+  }
+  .slider-nav__item.slick-slide.slick-current:after {
+    left: 31%;
+  }
+  .contact-info.two h3 {
+    font-size: 14px;
+    line-height: 24px;
+  }
+  .featured-area-one h2 {
+    font-size: 30px;
+    line-height: 40px;
+  }
+  form.request-quote-form {
+    margin-top: 20px;
+    margin-bottom: 0px;
+  }
+  .sponsors.two img {
+    margin-right: 20px;
+    margin-bottom: 6px;
+  }
+  ul.link-style li {
+    padding-bottom: 22px;
+  }
+  .heading h2 {
+    font-size: 24px;
+    line-height: 34px;
+  }
+  .solar-energy ul li,.solar-energy p {
+    font-size: 14px;
+  }
+  .solar-energy > img {
+    width: 120px;
+  }
+  .request-quote.two:after {
+    bottom: -20px;
+    height: 20px;
+  }
+  .request-quote.two {
+    margin-bottom: 30px !important;
+  }
+  .custom-listing-stlyes li {
+    font-size: 14px;
+    padding-bottom: 12px;
+  }
+}
+@media(max-width: 365px){
+  .progressbar {
+      margin-right: 32px !important;
+  }
+  .circle canvas, .circle {
+    width: 152px !important;
+    height: 152px !important;
+  }
+}

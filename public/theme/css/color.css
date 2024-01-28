@@ -1,0 +1,21 @@
+/* Color */
+.history h2,.call-for.mail-for a:hover,.solar-system span,ul.information li h6,
+li.navbar-dropdown:hover > a,
+.our-blog-text > a:hover,.our-blog-text h2:hover,.blog-details-text h2,.share-this li a:hover,
+.blog-text h4:hover,.use-energix a h4:hover,.sectors a:hover,.request-quote-info a p:hover,
+.navbar-links li > a:hover,.recent-projects-text h6,.recent-projects-text h5:hover,.solar-energy span {
+   
+    color: #0A9642;
+
+}
+/* Background Color */
+.navbar-links li.navbar-dropdown .dropdown:before,.mobile-nav > ul > li.menu-item-has-children.active > ul.sub-menu li:before,
+.history h2:before,.solar-pv i,.quote i,.navbar-links li.navbar-dropdown .dropdown  li a:before,
+header.two .menu-bar,.sectors h4,.video.two:after,.request-quote-info i,.request-quote.two:after,
+a.next-slide:before,form.request-quote-form,.blog-img h6,.contact-info,.video i,.call-for,
+.blog-text.two h6,.page-breadcrumb,.our-blog-text h6,ul.pagination li.prev a,.preloader,
+.top-bar,.domestic,.free-consultation-number span,.client-reviews-text i,.solar-energy:before,.solar-energy:after{
+
+    background-color:#0A9642;
+
+}
