@@ -347,7 +347,7 @@ a.header-button {
 }
 /* 3. hero-section */
 .slider-hero {
-    margin-top: -52px;
+    margin-top: -30px;
     position: relative;
 }
 .hero-section {
@@ -470,7 +470,7 @@ button.button {
     position: absolute;
     z-index: 1;
     bottom: 50px;
-    right: 18%;
+    right: 8%;
 }
 .slider-home-1.owl-carousel .owl-nav.disabled button i {
     background-color: #ffffff;
@@ -1449,7 +1449,7 @@ header.two a.search-btn svg {
 }
 .slide-two-img {
     position: relative;
-    margin-right: 44px;
+    margin-right: 24px;
     margin-bottom: 38px;
 }
 .slide-two-img figure{
