@@ -15,10 +15,6 @@ use Illuminate\Support\Facades\Route;
 
 include('admin.php');
 
-Route::prefix('demo')->group(function () {
-    Route::get('home', function () { return view('demo.home'); });
-});
-
 
 // Public Routes.
 Route::get('/', [App\Http\Controllers\PagesController::class, 'index']);

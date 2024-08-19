@@ -144,7 +144,7 @@
                             {{--                            <img src="{{asset('images/test_icon.png')}}" alt="" style="width: 130px; height: 130px">--}}
                         </i>
                         <h3>Solar Health Testing</h3>
-                        <p>Conducting associated testing ( Secondary Injection Testing (SIT), Power Quality (PQ) to make sure health of PV systems</p>
+                        <p>Conducting associated testing  Secondary Injection Testing (SIT), Power Quality (PQ) to make sure health of PV systems</p>
                     </div>
                 </div>
             </div>

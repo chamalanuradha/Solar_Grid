@@ -2,11 +2,11 @@
     <div class="top-bar">
         <div class="container">
             <div class="top-bar-text">
-                <ul class="d-flex">
+                <ul class="d-flex ">
                     <li><a href="https://www.linkedin.com/company/green-energy-partners-pty-ltd/" target="_blank"><i class="fa-brands fa-linkedin"></i>LinkedIn</a></li>
                     <li><a href="#"><i class="fa-brands fa-facebook"></i>facebook</a></li>
                     <li><a href="#"><i class="fa-brands fa-twitter"></i>Twitter</a></li>
-{{--                    <li><a href="#"><i class="fa-brands fa-instagram"></i>instagram</a></li>--}}
+                   <li><a href="#"><i class="fa-brands fa-instagram"></i>instagram</a></li>
                 </ul>
                 <div class="d-flex top-bar-mail">
                 </div>

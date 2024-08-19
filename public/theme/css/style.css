@@ -158,9 +158,11 @@ figure {
 /* 1. header */
 /* top-bar */
 .top-bar-text {
+    margin-left: 20px;
     display: flex;
     align-items: center;
     justify-content: space-between;
+    margin-bottom: 5px;
 }
 .top-bar-text a {
     text-transform: capitalize;
@@ -196,8 +198,8 @@ figure {
 .top-bar {
     z-index: 4;
     position: relative;
-    padding: 8px;
-    padding-bottom: 61px;
+    padding: 6px;
+    padding-bottom: 40px;
 }
 /* 2. navbar */
 .overlay {
@@ -322,9 +324,9 @@ figure {
     align-items: center;
     justify-content: space-between;
     background-color: #ffffff;
-    border-radius: 54px;
-    padding-left: 23px;
-    margin-top: -52px;
+    border-radius: 45px;
+    padding-left: 20px;
+    margin-top: -40px;
     z-index: 111;
     position: relative;
 }
@@ -337,9 +339,8 @@ a.header-button {
     background-color: #fe5716;
     color: white;
     font-weight: bold;
-    padding: 40px 34px;
-    border-radius: 70px;
-    margin-left: 20px;
+    border-radius: 60px;
+    margin-right: 4px;
 }
 .logo {
     margin-top: -12px;
