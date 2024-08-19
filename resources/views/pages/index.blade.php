@@ -52,7 +52,7 @@
                                 </defs>
                             </svg>
                         </i>
-                        <h3>Solar PVDB Solutions</h3>
+                        <h3>Solar Solutions</h3>
                         <p>Design and manufacture of Network Protection Units ( NPUs)/ PVDBs for commercial solar pv projects all over Australia</p>
                     </div>
                 </div>
