@@ -53,11 +53,11 @@
                             <input id="password-confirmation" type="password" class="form-control" name="password_confirmation" required autocomplete="new-password">
                         </div>
 
-                        <div class="mb-3">
+                        <!-- <div class="mb-3">
                             {!! NoCaptcha::renderJs() !!}
                             {!! NoCaptcha::display() !!}
                         </div>
-                        @error('g-recaptcha-response')<span class="text-danger small font-weight-bold"><strong>{{ $message }}</strong></span>@enderror
+                        @error('g-recaptcha-response')<span class="text-danger small font-weight-bold"><strong>{{ $message }}</strong></span>@enderror -->
 
 
                         <div class="mt-4 mb-0 d-flex justify-content-center">
